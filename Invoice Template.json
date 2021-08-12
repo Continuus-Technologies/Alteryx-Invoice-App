@@ -1,0 +1,49 @@
+{
+   "invoice": {
+      "vendor": {
+         "vendor-name": "<VendorName>",
+         "vendor-street-address-1": "<VenderStreetAddress1>",
+         "vendor-street-address-2": "<VenderStreetAddress2>",
+         "vendor-city": "<VendorCity>",
+         "vendor-state": "<VendorStateAbb>",
+         "vendor-zip": "<VendorZip>",
+         "vendor-phone": "<VendorPhone>",
+         "vendor-id": "<VendorID>"
+      },
+      "purchase-order": "<PurchaseOrderNo>",
+      "invoice-number": "<InvoiceNo>",
+      "invoice-date": "<InvoiceDateYYYY-MM-DD>",
+      "due-date": "<DueDateYYYY-MM-DD>",
+      "buyer": {
+         "buyer-name": "<BuyerName>",
+         "buyer-street-address-1": "<BuyerStreetAddress1>",
+         "buyer-street-address-2": "<BuyerStreetAddress2>",
+         "buyer-city": "<BuyerCity>",
+         "buyer-state": "<BuyerStateAbb>",
+         "buyer-zip": "<BuyerZip>",
+         "buyer-phone": "<BuyerPhone>"
+      },
+      "order-items": {
+         "line-item": [
+            {
+               "item": "<LineItem1>",
+               "quantity": "<Quantity1>",
+               "unit": "<Unit1>",
+               "price": "<PricePerUnit1>",
+               "currency": "<Currency1>",
+               "tax-rate": "<SalesTaxRate1>",
+               "description": "<Description1>"
+            },
+            {
+               "item": "<LineItem2>",
+               "quantity": "<Quantity2>",
+               "unit": "<Unit2>",
+               "price": "<PricePerUnit2>",
+               "currency": "<Currency2>",
+               "tax-rate": "<SalesTaxRate2>",
+               "description": "<Description2>"
+            },
+         ]
+      }
+   }
+}
