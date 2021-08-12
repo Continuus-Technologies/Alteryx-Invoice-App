@@ -2,8 +2,8 @@
    "invoice": {
       "vendor": {
          "vendor-name": "<VendorName>",
-         "vendor-street-address-1": "<VenderStreetAddress1>",
-         "vendor-street-address-2": "<VenderStreetAddress2>",
+         "vendor-street-address-1": "<VendorStreetAddress1>",
+         "vendor-street-address-2": "<VendorStreetAddress2>",
          "vendor-city": "<VendorCity>",
          "vendor-state": "<VendorStateAbb>",
          "vendor-zip": "<VendorZip>",
